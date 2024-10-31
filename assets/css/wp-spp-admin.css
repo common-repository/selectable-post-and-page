@@ -1,0 +1,76 @@
+/* 
+ * Selectable Post and Page
+ * Admin section
+ * Author: HappyMox
+ */
+.spp-category_result {
+    width: 100%;
+    background-color: #f7f7f7;
+    padding: auto 0 auto 4px;
+    max-height: 360px;
+    overflow: auto;
+}
+.spp-post-types {
+    padding: 4px 0 4px 20px;
+    font-weight: bold;
+}
+
+/* Background color for Options*/
+.spp-option-bg {
+    background-color: #f1f1f1;
+    margin: 0;
+    padding-left: 5px;
+    float: left;
+    width: 100%;
+}
+
+.spp-option-bg select {
+    float: right;
+    width: 180px;
+}
+
+.spp-result-list {}
+
+.spp-category-row {}
+
+.spp-widget-title {
+    width: 100%;
+}
+
+.spp-post-types > input[type="radio"] {
+    margin-left: 20px;
+}
+
+.spp-post-types > input[type="radio"]:hover {
+    color: #007aff;
+}
+
+.spp-excerpt-length input,
+.spp-random-post-num input,
+.spp-right input{
+    float: right;
+    text-align: center;
+}
+
+.spp-right-2 input{
+    float: right;
+    text-align: left;
+}
+
+.spp-template-layout {
+    padding: 0;
+    margin: 0;
+}
+
+.spp-template-layout td {
+    padding: 3px;
+}
+
+.spp-template-layout td.selected {
+    background-color: #e9e9e9;
+}
+
+.spp-template-layout td:hover {
+    background-color: #FDE08A;
+    cursor: pointer;
+}

@@ -1,0 +1,78 @@
+# Copyright (C) 2017 Selectable Post and Page
+# This file is distributed under the same license as the Selectable Post and Page package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Selectable Post and Page 1.0.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/selectable-post-"
+"and-page\n"
+"POT-Creation-Date: 2017-01-23 12:41:38+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2017-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: selectable-post-and-page.php:106
+msgid "> More"
+msgstr ""
+
+#: selectable-post-and-page.php:200
+msgid "Title"
+msgstr ""
+
+#: selectable-post-and-page.php:207
+msgid "Hide Title"
+msgstr ""
+
+#: selectable-post-and-page.php:211
+msgid "Options for Selectable Post(s)"
+msgstr ""
+
+#: selectable-post-and-page.php:230
+msgid "Category "
+msgstr ""
+
+#: selectable-post-and-page.php:236
+msgid "Order By :"
+msgstr ""
+
+#: selectable-post-and-page.php:248
+msgid "Order Type :"
+msgstr ""
+
+#: selectable-post-and-page.php:260
+msgid "Selectable Posts"
+msgstr ""
+
+#: selectable-post-and-page.php:267
+msgid "Excerpt length (in words):"
+msgstr ""
+
+#: selectable-post-and-page.php:274
+msgid "Display \"more\" link? (with text)"
+msgstr ""
+
+#: selectable-post-and-page.php:280
+msgid "Display Post's Date"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "Selectable Post and Page"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "http://happymox.wordpress.com/2016/12/28/selectable-post-and-page/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Adds a widget that can display posts from a single category and page."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "HappyMox"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://happymox.wordpress.com"
+msgstr ""
